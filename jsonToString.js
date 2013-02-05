@@ -7,7 +7,7 @@ var jsonToString = (function(){
 		}
 		return _type;
 	};
-	//Date RegExp
+	
 	var fun = {
 		'function'	:function(val){return val.toString();},
 		'date'		:function(val){return 'new Date('+val*1+')';},
