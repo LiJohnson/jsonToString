@@ -1,3 +1,3 @@
 jsonToString
 ============
-use javascript translate json data to string;
+use javascript to translate json data to string;
